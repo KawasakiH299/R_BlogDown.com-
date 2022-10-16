@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Xin Lu
+title: LU XIn
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "Black and white keyboard"
-  footer: "&copy; [Xin Lu](https://github.com/) 2022 | [Github](https://github.com/)"
+  footer: "&copy; [Lu Xin](https://github.com/) 2022 | [Github](https://github.com/)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
