@@ -1,7 +1,8 @@
 ---
-title: first
+author: Lu Xin
+date: "2022-10-13"
+title: Black and white keyboard
 ---
-
 [<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/)
 
 This is a blog about sharing learning and life, Related to python java hadoop,
