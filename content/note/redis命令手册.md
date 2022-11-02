@@ -10,6 +10,4 @@ tags: []
 
 # 字符串
 1.1
-  set：为字符串设置新值
-    set key value
-    redis>set number "10086"
+  set：为字符串设置新值                                                                                                                                                             set key value                                                                                                                                                             redis>set number "10086"
