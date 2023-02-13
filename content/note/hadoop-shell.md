@@ -2,7 +2,7 @@
 title: Hadoop  shell script
 author: Xin Lu
 date: '2022-10-13'
-slug: hadoop-shell
+slug: hadoop集群脚本
 categories: []
 tags: []
 ---
