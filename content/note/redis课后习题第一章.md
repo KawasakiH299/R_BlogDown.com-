@@ -1,5 +1,5 @@
 ---
-title: 操作系统第二章---进程
+title: Redis课后习题（第一章）
 author: Xinlu
 date: '2023-02-14'
 slug: redis课后习题第一章
