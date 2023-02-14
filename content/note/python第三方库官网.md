@@ -19,5 +19,5 @@ tags:
 ### [xlwings](https://www.kancloud.cn/gnefnuy/xlwings-docs/1127455)
 ### [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 ### [scipy](https://yiyibooks.cn/sorakunnn/scipy-1.0.0/scipy-1.0.0/index.html)
-### redis:[雷迪斯 ·派派 (pypi.org)](https://pypi.org/project/redis/)
+### [redis](https://pypi.org/project/redis/)
 ### 第三方库搜索：[PyPI](https://pypi.org/project/)
