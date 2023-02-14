@@ -9,6 +9,6 @@ This is a blog about sharing learning and life, Related to python java hadoop,
 Basic Computer Course and Network Security.Record some problems and solutions encountered in the study or project,If you encounter corresponding problems, you can find solutions.                                                                      
 
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g.,[notes](/note/).
 
 **Wish you a happy life!**
