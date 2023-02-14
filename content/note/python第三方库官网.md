@@ -10,7 +10,7 @@ tags:
 
 
 ### [keras](https://keras.io/zh/applications/#_3)
-### [numpy(https://www.numpy.org.cn/)
+### [numpy](https://www.numpy.org.cn/)
 ### [tensorflow](https://tensorflow.google.cn/?hl=zh_cn)
 ### [scikit-learn](https://www.cntofu.com/book/170/index.html)
 ### [pandas](https://www.pypandas.cn/)
