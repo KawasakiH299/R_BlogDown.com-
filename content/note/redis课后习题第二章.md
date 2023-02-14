@@ -1,5 +1,5 @@
 ---
-title: redis课后习题第二章
+title: redis课后习题（第二章）
 author: Xinlu
 date: '2023-02-14'
 slug: redis课后习题第二章
