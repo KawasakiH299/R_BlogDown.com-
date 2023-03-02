@@ -1,7 +1,7 @@
 ---
 title: redis--常用数据类型Hash
 author: Xinlu
-date: '2023-03-1'
+date: '2023-03-01'
 slug: redis--常用数据类型Hash
 categories: []
 tags: []
