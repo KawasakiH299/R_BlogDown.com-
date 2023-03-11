@@ -30,6 +30,10 @@ tags: []
 - 取出0到-1的value值（和score的值）
 
 
+### zscore key  value
+- zscore z1 java
+- 获取java的scores值 
+
 
 ### zrangebyscore  key  min   max （withscores）
 
