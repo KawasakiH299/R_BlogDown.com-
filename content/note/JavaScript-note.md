@@ -1,7 +1,7 @@
 ---
 title: JavaScript框架vue
 author: Xin Lu
-date: '2022-04-09'
+date: '2023-04-09'
 slug: JavaScript框架vue
 categories: []
 tags: []
