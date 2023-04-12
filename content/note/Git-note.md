@@ -1,7 +1,7 @@
 ---
 title: Git-note
 author: Xin Lu
-date: '2023-03-02'
+date: '2023-04-02'
 slug: Git-note
 categories: []
 tags: []
