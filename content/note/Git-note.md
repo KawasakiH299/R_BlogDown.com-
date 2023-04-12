@@ -1,5 +1,5 @@
 ---
-title: Flume listens to hive logs
+title: Git-note
 author: Xin Lu
 date: '2023-03-02'
 slug: Git-note
