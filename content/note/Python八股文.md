@@ -1,3 +1,14 @@
+---
+title: python面试八股文
+author: Xinlu
+date: '2023-06-13'
+slug: python
+categories: []
+tags: 
+---
+
+
+
 #### 提高python运行效率的方法：
 
 - 使用生成器，可以节约大量内存
