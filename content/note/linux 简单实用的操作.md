@@ -1,5 +1,5 @@
 ---
-title: 名字绑定
+title: linux 简单实用的操作
 author: Xin Lu
 date: '2023-05-04'
 slug: []
