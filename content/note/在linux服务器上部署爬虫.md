@@ -1,5 +1,5 @@
 ---
-title: linux
+title: 在linux服务器上部署爬虫
 author: Xin Lu
 date: '2023-06-08'
 slug: []
