@@ -385,3 +385,47 @@ top
  
 ```
 
+
+
+#### rsync 远程同步工具
+
+- rsync 主要用于备份和镜像。具有速度快、避免复制相同内容和支持符号链接的优点。 
+
+- rsync 和 scp 区别：用 rsync 做文件的复制要比 scp 的速度快，rsync 只对差异文件做更 新。scp 是把所有文件都复制过去。
+
+```
+rsync -av $pdir/$fname $user@$host:$pdir/$fname
+命令 选项参数 要拷贝的文件路径/名称 目的地用户@主机:目的地路径/名称
+[atguigu@hadoop102 ~]$ rsync -av hadoop-3.1.3/      atguigu@hadoop103:/opt/module/hadoop-3.1.3/
+
+-a 归档拷贝
+-v 显示处理信息
+```
+
+
+
+#### scp 可以实现服务器与服务器之间的数据拷贝。
+
+#### （from server1 to server2） 
+
+2）基本语法 
+
+```
+scp -r $pdir/$fname $user@$host:$pdir/$fname 
+命令 递归 要拷贝的文件路径/名称 目的地用户@主机:目的地路径/名称 
+[atguigu@hadoop102 ~]$ scp -r /opt/module/jdk1.8.0_212 
+atguigu@hadoop103:/opt/module
+```
+
+
+
+#### chown [选项]... [所有者][:[组]] 文件...
+
+##### 命令功能：通过chown改变文件的拥有者和群组
+
+```
+[atguigu@hadoop102 ~]$ sudo  chown atguigu:atguigu -R /opt/module
+
+chown -R 处理指定目录以及其子目录下的所有文件
+```
+
