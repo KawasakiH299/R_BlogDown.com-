@@ -155,3 +155,17 @@ hadoop103
 hadoop104
 ```
 
+
+
+---
+
+#### Web 端查看 HDFS 的 NameNode 
+
+- 浏览器中输入：http://hadoop102:9870 
+
+
+
+#### Web 端查看 YARN 的 ResourceManager 
+
+- 浏览器中输入：http://hadoop103:8088 
+
