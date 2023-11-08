@@ -8,6 +8,7 @@ tags: []
 ---
 
 Kawasaki-Ginlt@Kawasaki-Gin MINGW64 /d/Projects/Python-project
+
 $ git init
 Initialized empty Git repository in D:/Projects/Python-projects/Data/.git/
 
