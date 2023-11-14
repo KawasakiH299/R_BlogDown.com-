@@ -37,7 +37,7 @@ cd Python-3.7.0
 
 4. 对安装进行配置，并指定安装路径
 
-./configure --prefix=/usr/local/python37
+./configure -prefix=/usr/local/python37
 
 5.make 编译
 
